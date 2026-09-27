@@ -1,0 +1,1 @@
+condition evaluation test fixture
